@@ -2,7 +2,7 @@
 
 End-to-end ecommerce analytics project built using **Bigquery, SQL, and PowerBI** based on the public **TheLook Ecommerce dataset**.
 
-The project simulates a real-world analytics workflow - building a structures data model, creating analytical SQL layers, and delivering business insights through an exective dashboard.
+The project simulates a real-world analytics workflow - building a structured data model, creating analytical SQL layers, and delivering business insights through an executive dashboard.
 
 ---
 
@@ -18,30 +18,35 @@ The goal is to understand **what drives revenue growth, where customers drop off
 ---
 
 # Tech Stack
+
 **Data Warehouse**
 
-- Google BIgquery
+- Google Bigquery
 - SQL(Data Modeling + Aggregations)
 
 **Visualization**  
+
 - PowerBI
 
  **Analytics Techniques**
+ 
  - KPI Modeling
- - Conversin Funnel Analysis
+ - Conversion Funnel Analysis
  - Revenue Decomposition
  - Growth Analysis (MoM / YoY / CAGR)
 
 ---
 
 # Dashboard Overview
+
 ## 1 Category Portfolio Performance 
+
 Analyzes how different product categories contribute to revenue and order volume.
 
 Key metrics include:
 - Total Revenue
 - Total Orders
-- Average Order Value
+- Average Order Value (AOV)
 - Cancellation Rate
 - Revenue Share by Category
 
@@ -63,6 +68,7 @@ Tracks the user journey through the ecommerce funnel:
 **Product View -> Add to Cart -> Purchase**
 
 Key metrics:
+
 - View -> Cart Conversion Rate
 - Cart -> Purchase Conversion Rate
 - Overall Purchase Conversion Rate
@@ -77,7 +83,7 @@ The dashboard also shows **conversion trends over time**, revealing improvements
 
 ## 3 Business Growth & Demand Trends
 
-Examine long-term scaling of the business.
+Examines long-term scaling of the business.
 
 Key metrics include:
 
@@ -99,7 +105,7 @@ The dashboard highlights how the business scaled from early growth to sustained 
 - Revenue expanded from **$0.08M in 2019 to $3.15M in 2025** (~40x growth).
 - The business achieved approximately **~83% Compound Annual Growth Rate(CAGR)**.
 - Growth follows a **T2D3-style scaling pattern**, with rapid early expansion followed by more stable growth.
-- **Revenue per customer remains relatively stable**, indicating that growth is driven primarily by **customer acquisition and order volume expansion rather than increasing spend per user.**
+- **Revenue per customer remains relatively stable**, indicating that growth is driven primarily by **customer acquisition and order volume expansion rather than increasing spend per user**.
 
 ---
 
@@ -120,10 +126,12 @@ Main steps:
 # Repository Structure
 
 # Dataset
+
 Google Bigquery Public Dataset
 bigquery-public-data.thelook_ecommerce
 
  Dataset includes:
+ 
  - Orders
  - products
  - Events
