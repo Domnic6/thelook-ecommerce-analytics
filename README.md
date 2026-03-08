@@ -56,7 +56,7 @@ Insights help identify:
 - Volume-driven categories generating traffic
 - Portfolio diversification across product group
 
-![Category Portfolio](page1_category_portfolio.png)
+![Category Portfolio](sql/page1_category_portfolio.png)
 
 ---
 
@@ -75,7 +75,7 @@ Key metrics:
 
 The dashboard also shows **conversion trends over time**, revealing improvements in user purchasing behavior.
 
-![Conversion Funnel](page2_conversion_funnel.png)
+![Conversion Funnel](sql/page2_conversion_funnel.png)
 
 ---
 
@@ -94,7 +94,7 @@ Key metrics include:
 
 The dashboard highlights how the business scaled from early growth to sustained expansion.
 
-![Business Growth](page3_business_growth.png)
+![Business Growth](sql/page3_business_growth.png)
 
 ---
 
