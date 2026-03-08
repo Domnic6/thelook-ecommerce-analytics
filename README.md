@@ -39,7 +39,7 @@ The goal is to understand **what drives revenue growth, where customers drop off
 
 # Dashboard Overview
 
-## 1 Category Portfolio Performance 
+## 1. Category Portfolio Performance 
 
 Analyzes how different product categories contribute to revenue and order volume.
 
@@ -56,12 +56,11 @@ Insights help identify:
 - Volume-driven categories generating traffic
 - Portfolio diversification across product group
 
-![Category Portfolio]
-(page1_category_portfolio.png)
+![Category Portfolio](page1_category_portfolio.png)
 
 ---
 
-## 2 Customer Conversion Funnel
+## 2. Customer Conversion Funnel
 
 Tracks the user journey through the ecommerce funnel:
 
@@ -76,12 +75,11 @@ Key metrics:
 
 The dashboard also shows **conversion trends over time**, revealing improvements in user purchasing behavior.
 
-![Conversion Funnel]
-(page2_conversion_funnel.png)
+![Conversion Funnel](page2_conversion_funnel.png)
 
 ---
 
-## 3 Business Growth & Demand Trends
+## 3. Business Growth & Demand Trends
 
 Examines long-term scaling of the business.
 
